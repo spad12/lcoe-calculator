@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\daily_demand_studies"
 		}
 	],
 	"settings": {}
